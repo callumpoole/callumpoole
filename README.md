@@ -1,4 +1,10 @@
-### Hi there 👋
+### "Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction." - Albert Einstein
+
+- 🏡 I’m currently living in Sheffield, UK.
+- 💼 I’m currently working at Sumo Digital.
+- 👨‍💻 I’m currently working with C++ primarily.
+- 🌱 I’m currently learning various bits and bobs within the tech/mathematics.
+- 🔗 Have you seen my [website](https://callumpoole.github.io/)? Updated version coming soon!
 
 <!--
 **callumpoole/callumpoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
