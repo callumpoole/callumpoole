@@ -4,9 +4,9 @@
 
 - 🏡 I’m currently living in Sheffield, UK.
 - 💼 I’m currently working at Sumo Digital.
-- 👨‍💻 I’m currently working with C++ primarily.
+- 👨‍💻 I’m currently working with C++ primarily, historically used C# a lot, currently keeping my eyes on Rust!
 - 🌱 I’m currently learning various bits and bobs within the tech/mathematics.
-- 🔗 Have you seen my [website](https://callumpoole.github.io/)? Updated version coming soon!
+- 🔗 Have you seen my [website](https://callumpoole.github.io/)?
 
 <!--
 **callumpoole/callumpoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
